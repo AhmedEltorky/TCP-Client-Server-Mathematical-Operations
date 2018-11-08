@@ -21,6 +21,8 @@
 
 ![math_operations_server](https://user-images.githubusercontent.com/26473614/48066589-b45c5100-e1d6-11e8-8a9b-688eacf99ec7.PNG)
 
+![mathoperationserver](https://user-images.githubusercontent.com/26473614/48215815-bd425380-e38b-11e8-850f-44868c300eba.PNG)
+
 ### Client
 
 ![math_operations_client](https://user-images.githubusercontent.com/26473614/48066584-b3c3ba80-e1d6-11e8-874a-a6152fd7c909.PNG)
